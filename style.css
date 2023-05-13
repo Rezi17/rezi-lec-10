@@ -1,0 +1,88 @@
+.conteiner {
+    max-width: 1440px;
+    width: 100%;
+    margin-inline: auto;
+}
+
+header {
+
+    width: 1440px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 43px;
+    padding-left: 32px;
+    padding-bottom: 32px;
+    /* border: solid red; */
+}
+
+ul {
+    display: flex;
+    gap: 24px;
+   
+}
+
+/* header done--------------------------------------------------------------*/
+.section1 {
+    
+    padding-left: 20%;
+    padding-top: 15%;
+    row-gap: 24px;
+}
+
+.H1DIV {
+
+    width: 490px;
+    height: 120px;
+   
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 56px;
+    line-height: 60px;
+}
+
+.p1DIV {
+    margin-top: 24px;
+    
+    width: 410px;
+    height: 56px;
+}
+
+.IMGdiv {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 44px;
+}
+
+.lastP {
+   
+    width: 236px;
+    height: 40px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.fasf {
+
+
+   position: absolute;
+   margin-left: 500px;
+   margin-top: -325px;
+   align-items: center;
+ 
+    
+    width: 490px;
+    height: 428px;
+}
+a:hover{
+
+scale: 1.2;
+}
+
+
+
