@@ -157,7 +157,7 @@ a:hover {
     display: flex;
     flex-direction: column;
     row-gap: 8px;
-    
+
     width: 503.5px;
     height: 64px;
     margin-top: 32px;
@@ -170,8 +170,44 @@ a:hover {
 }
 
 .t_text {
-margin-top: 16px;
+    margin-top: 16px;
     color: #F3F3F3;
+
+}
+
+/* ..............................section2 done....................................... */
+.article2 {
+    margin-inline: auto;
+    width: 1440px;
+    height: 566px;
+}
+
+/* ................................article2 done.....................................*/
+footer {
+    padding-top: 96px;
+    margin-inline: auto;
+    width: 1440px;
+    height: 336px;
+    background: #000000;
+}
+
+.box_div {
+
+    margin-inline: auto;
+  
+    height: 170px;
+    width: 1140px;
+}
+
+.footer_div {
+    display: flex;
+    justify-content: space-around;
+    padding-right: 150px;
+    width: 100%;
+    height: 25px;
    
 }
-/* ..............................section2 done....................................... */
+
+.lis {
+    color: #F3F3F3;
+}
