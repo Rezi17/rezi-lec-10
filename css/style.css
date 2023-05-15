@@ -194,20 +194,45 @@ footer {
 .box_div {
 
     margin-inline: auto;
-  
+
     height: 170px;
     width: 1140px;
 }
 
 .footer_div {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     padding-right: 150px;
     width: 100%;
     height: 25px;
-   
+
 }
 
 .lis {
     color: #F3F3F3;
 }
+
+.footer_div1 {
+    
+    margin-left: 570px;
+    /* border: solid red; */
+    width: 100px;
+}
+
+.footer_div2 {
+    /* border: solid blue; */
+    width: 100px;
+    margin-left: 670px;
+    
+}
+
+.footer_div3 {
+    /* border: solid green; */
+}
+.footer_div4{
+    /* border: solid rgb(255, 255, 255); */
+}
+p{
+    color:#F3F3F3;
+}
+/* metis gasworebas ver vaswreb :( */
